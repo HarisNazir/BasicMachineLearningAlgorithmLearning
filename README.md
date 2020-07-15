@@ -21,3 +21,6 @@ As expected Linear Regression will not always give the best results however will
 A K-Nearest-Neighbor algorithm, also known as KNN, is an approach to data classification that estimates how likely a data point is to be a member of one group or the other depending on what group the data points nearest to it are in.
 
 The KNN algorithm is an example of a "lazy learner" algorithm because it does not generate a model of the data set beforehand. The only calculations it makes are when it is asked to poll the data point's neighbors. This makes k-nn very easy to implement for data mining.
+
+### 3. Support Vector Machine (SVM)
+A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems. After giving an SVM model sets of labeled training data for each  category, they’re able to categorize new text.
