@@ -1,4 +1,4 @@
-# Machine Learning Algorithm Learning
+# Basic Machine Learning Algorithm Learning
 ## Why I am Doing This
 I've been wanting to explore the world of Machine Learning so I wanted to look into some very basic ML algorithms and implement them into a functional program.
 
@@ -24,3 +24,7 @@ The KNN algorithm is an example of a "lazy learner" algorithm because it does no
 
 ### 3. Support Vector Machine (SVM)
 A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems. After giving an SVM model sets of labeled training data for each  category, they’re able to categorize new text.
+
+### 4. K Means Clustering
+K Means Clustering is an unsupervised Machine Learning Alogrithm. It is used when using datasets that are unlabeld. The goal of K Means Clustering is to find groups (or clusters) in datasets. The K in K means stands for the number of clusters. K means works iteratively to assign each data point to one of the clusters.
+
